@@ -1,0 +1,1 @@
+I am trying to create an histogram by opening directory and reading the file and then create an histogram in that directory. So far I have this and it is not working for me. I am trying so many different ways but all are failing. Can anyone see what I am doing wrong?
